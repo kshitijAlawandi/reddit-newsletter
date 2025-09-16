@@ -1,0 +1,12 @@
+# For interacting with the Reddit API
+praw==7.7.1
+
+# For accessing Google Gemini or other LLMs
+google-generativeai==0.8.5
+# openai==1.35.3 # Uncomment if you decide to use OpenAI instead
+
+# For sending emails via SendGrid API
+sendgrid==6.12.4
+
+# For loading environment variables from the .env file
+python-dotenv==1.1.1
